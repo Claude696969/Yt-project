@@ -6,6 +6,34 @@ The format is a vertical Short of about 30–60 seconds. It opens with **"In Thi
 
 ---
 
+## Shortcut: let AI make the videos
+
+Phase 2 below is the hand-made way. These tools do most of it for you:
+
+| Tool | Cost | How it works |
+|---|---|---|
+| **[laSenu/roblox-in-this-town](https://github.com/laSenu/roblox-in-this-town)** (recommended) | Free (MIT); uses your Claude plan | A Claude Code skill. Claude drives **real Roblox Studio**: it builds places, dresses characters, plans the camera, renders frames, and adds voice and captions. Tested on Windows. |
+| [Zyvo](https://www.tryzyvo.com/in-this-town-story-video-maker) | Paid web app | Type one town rule; it writes, voices and animates a blocky-3D Short |
+| [Korpi](https://korpi.ai/best-ai/roblox-horror-stories) | Paid credits | All-in-one script, voice, visuals and captions |
+| [Ovideo](https://ovideo.io/resources/roblox-story-video-generator) | Paid web app | "In This Town"-style story video generator, no Studio needed |
+
+Prices and quality of the paid tools were not checked. Try a free trial before paying.
+
+### Setting up the laSenu skill on Windows
+- [ ] Do Phase 0 below (Claude Code, Git, Python 3.10+, FFmpeg, Roblox Studio)
+- [ ] In Roblox Studio, open Assistant settings → **MCP Servers** and connect it to Claude Code. Guide: https://create.roblox.com/docs/studio/mcp
+- [ ] Copy the skill into your user skills folder:
+  ```
+  git clone https://github.com/laSenu/roblox-in-this-town.git "$env:USERPROFILE\.claude\skills\roblox-in-this-town"
+  ```
+- [ ] In your place file, set `StarterPlayer > AvatarJointUpgrade` to **Disabled** (Properties window)
+- [ ] Run `claude` and say: *"Help me make Roblox story shorts"*
+- [ ] Expect the **first session to take several hours** and use a lot of your Claude usage, because it builds your toolkit once. After that, each video takes about 1–1.5 hours, of which about 30 minutes is rendering.
+- [ ] Keep the Roblox Studio window **visible** while it renders. A covered window gives empty frames.
+- [ ] Use **one fresh chat per video**, because long chats get slow and expensive
+
+---
+
 ## Phase 0: Set up your laptop (1 evening)
 
 - [ ] Install **Git for Windows**: https://git-scm.com/download/win
