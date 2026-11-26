@@ -1,0 +1,9 @@
+production/episodes/*/clips/*
+!production/episodes/*/clips/.gitkeep
+production/episodes/*/voice.mp3
+production/episodes/*/words.json
+production/episodes/*/captions.ass
+production/episodes/*/final.mp4
+production/episodes/*/_tmp/
+production/music/
+__pycache__/

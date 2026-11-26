@@ -1,0 +1,91 @@
+{
+  "style": "3D blocky toy-figure game avatar style, smooth plastic look, cylindrical head with simple printed face decal, bright saturated colors, soft cinematic lighting, vertical 9:16 frame, shallow depth of field, no text",
+  "characters": {
+    "@Pip": "main character: blocky avatar kid, orange hoodie, messy black hair, small backpack, simple dot-eyes smile decal",
+    "@Mila": "blocky avatar girl, yellow raincoat, two pigtails, round glasses",
+    "@Abe": "blocky avatar old man, grey beard, blue overalls, cap, tool belt",
+    "@Bo": "blocky avatar little brother, green t-shirt, shorter than Pip, big round eyes"
+  },
+  "episodes": [
+    {
+      "id": "001", "slug": "love-counter",
+      "title": "In This Town, A Number Shows How Many People Love You… Mine Is 0 💔 #roblox #shorts",
+      "premise_type": "visible stat / emotional",
+      "script": "In this town, everyone has a number above their head. It counts how many people love you. My mom has thirty. The mayor has nine hundred. Mine has always been zero. Kids laughed. Teachers looked away. I stopped going outside. Then one night the power went out, and a little girl was stuck in the dark, crying. I gave her my flashlight and walked her home. The next morning, my number said one. I smiled… until I saw hers. Her number had always been zero too. Now it said one. It was me.",
+      "shots": [
+        ["0-5s", "Wide shot of a cheerful blocky town street, every avatar has a glowing white number floating above its head, @Pip in center with a glowing 0 above his head, slow push-in"],
+        ["5-10s", "A blocky mom avatar with a glowing 30 above her head waving, then a mayor in a suit on a stage with a glowing 900, crowd cheering"],
+        ["10-15s", "Close-up of @Pip looking down sadly, glowing 0 above his head, other kids pointing and laughing in the background"],
+        ["15-20s", "@Pip sitting alone at a bedroom window at dusk, looking out at the town, lonely mood, blue light"],
+        ["20-26s", "Night, town blackout, all streetlights off, @Mila sitting on a curb crying in the dark, lit only by moonlight"],
+        ["26-32s", "@Pip handing @Mila a flashlight, warm beam of light between them, then walking her down the dark street"],
+        ["32-38s", "Morning, @Pip looking up in surprise at a glowing 1 above his own head, starting to smile"],
+        ["38-45s", "@Pip turning to see @Mila across the street, her number flickering from 0 to 1, both smiling, warm golden light, emotional ending"]
+      ]
+    },
+    {
+      "id": "002", "slug": "dont-sleep-outside",
+      "title": "In This Town, You NEVER Fall Asleep Outside… 😨 #roblox #shorts",
+      "premise_type": "danger / horror",
+      "script": "In this town, you never fall asleep outside. Not on a bench. Not in the park. Not even for a minute. Because when the streetlights flicker, anyone sleeping outside is gone by morning. Nobody knows where they go. Last night, I saw my little brother asleep on the swings. The lights started flickering. I ran. I grabbed his arm. And then I heard the lights… whisper. Not him. We want the one who hasn't slept in three days. I haven't slept since Tuesday. I always wondered why the streetlights followed me home.",
+      "shots": [
+        ["0-5s", "Eerie empty park at night, tall streetlights glowing, an empty bench, slow creeping camera push, horror mood"],
+        ["5-10s", "Montage feel: an empty bench, an empty park lawn, warning sign shaped like a closed eye, cold blue lighting"],
+        ["10-16s", "Streetlights flickering on and off along a long road, a blanket left behind on a bench, unsettling"],
+        ["16-22s", "@Bo asleep on a playground swing at night, gently swaying, streetlight above starting to flicker"],
+        ["22-28s", "@Pip sprinting across the park toward the swings, panicked expression, dramatic low angle"],
+        ["28-34s", "@Pip grabbing @Bo's arm, both freezing as every streetlight bends its head down toward them"],
+        ["34-40s", "Extreme close-up of @Pip with dark tired circles under his eyes, streetlight glow on his face"],
+        ["40-45s", "@Pip walking home at night, wide shot, a row of streetlights silently turning to follow him, horror ending"]
+      ]
+    },
+    {
+      "id": "003", "slug": "kindness-coins",
+      "title": "In This Town, Every Kind Thing You Do Drops A Gold Coin 🪙 #roblox #shorts",
+      "premise_type": "emotional / wholesome twist",
+      "script": "In this town, every kind thing you do drops a gold coin. Hold a door? One coin. Help someone up? Five. So everyone is kind… but only when they're watching for coins. Then there's old Mister Abe. He fixes bikes for free, and he never picks up his coins. People call him crazy. When he got sick, the whole town found out why. Behind his house was a mountain of gold, as tall as the clock tower. And a sign that said: for whoever needs it more. He never did it for the coins. That's why there were so many.",
+      "shots": [
+        ["0-5s", "Bright sunny blocky town square, an avatar holding a door open and a shiny gold coin pops out with a sparkle"],
+        ["5-10s", "An avatar helping another stand up, five gold coins burst out, both grabbing at them greedily"],
+        ["10-15s", "Crowd of avatars doing fake kind gestures while staring at the ground for coins, comedic"],
+        ["15-21s", "@Abe in a small garage fixing a kid's bike, gold coins piling unnoticed around his boots, warm light"],
+        ["21-27s", "Avatars whispering and pointing at @Abe from across the street, coins left on the ground behind him"],
+        ["27-33s", "@Abe lying in a hospital bed, the town gathering outside his house looking worried, soft sad light"],
+        ["33-40s", "Reveal: behind a small house, an enormous mountain of gold coins as tall as a clock tower, crowd staring in awe, golden hour"],
+        ["40-45s", "Close-up of a hand-painted wooden sign in front of the gold mountain, avatars in background wiping tears, emotional ending"]
+      ]
+    },
+    {
+      "id": "004", "slug": "future-call",
+      "title": "In This Town, Your Future Self Calls You Once… 📞 #roblox #shorts",
+      "premise_type": "mystery / horror twist",
+      "script": "In this town, on your thirteenth birthday, your phone rings once. It's you, from the future. They tell you one thing. My sister's said, take the job in the city. She's rich now. My friend's said, say sorry to Dad. He did. I turned thirteen today. The phone rang. I picked it up. Silence. Then breathing. Then a voice that sounded exactly like me said: don't answer the phone. I looked at the screen. The call was coming from inside my house.",
+      "shots": [
+        ["0-5s", "@Pip's bedroom, birthday balloons and a cake with candles, an old phone on the desk glowing, ominous push-in"],
+        ["5-10s", "A blocky teen girl on the phone, eyes wide, then cut to her in a fancy city apartment with skyline"],
+        ["10-15s", "A blocky boy on the phone, then hugging his dad in a kitchen, warm light"],
+        ["15-20s", "@Pip blowing out birthday candles alone in his room at night, smoke rising"],
+        ["20-26s", "The phone ringing and vibrating on the desk, @Pip slowly reaching for it, tense"],
+        ["26-33s", "Close-up of @Pip holding the phone to his ear, face turning pale, dark room"],
+        ["33-39s", "Over-the-shoulder shot of the phone screen showing a call from 'HOME', bedroom door slightly open behind him"],
+        ["39-45s", "Dark hallway outside @Pip's room, a silhouette identical to @Pip holding a phone at the end of the hall, horror ending"]
+      ]
+    },
+    {
+      "id": "005", "slug": "no-running",
+      "title": "In This Town, Running Is ILLEGAL… 🏃‍♂️❌ #roblox #shorts",
+      "premise_type": "rule / comedy twist",
+      "script": "In this town, running is illegal. Walking only. Even our races are speed-walking. Because if you run, the ground cracks under your feet. Grandma says the town is built on a sleeping giant, and fast footsteps wake him up. I never believed her. Today I was late for school. I looked left. I looked right. I ran. The ground shook. The street split open. A giant eye opened under the road. It looked right at me and said: bro. It's seven a.m. Then it went back to sleep. I still got detention.",
+      "shots": [
+        ["0-5s", "Blocky town street full of avatars all walking stiffly, a big 'NO RUNNING' road sign, comedic tone"],
+        ["5-10s", "A track race where all avatars speed-walk with exaggerated arm swings, crowd cheering, funny"],
+        ["10-15s", "Close-up of cracks spreading across a sidewalk under one sneaker, dust rising"],
+        ["15-20s", "Cozy kitchen, a blocky grandma telling a story to @Pip, illustration of a giant sleeping under the town on a picture book"],
+        ["20-26s", "@Pip at the edge of a sidewalk with backpack, glancing left and right sneakily, clock tower showing 7:58"],
+        ["26-32s", "@Pip sprinting down the street, ground cracking behind him, avatars diving out of the way, action shot"],
+        ["32-39s", "The road splitting open and an enormous sleepy eye opening underneath, looking up at tiny @Pip, epic scale"],
+        ["39-45s", "Classroom, @Pip sitting alone at a desk with a 'DETENTION' sign on the chalkboard, deadpan funny ending"]
+      ]
+    }
+  ]
+}

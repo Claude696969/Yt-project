@@ -6,7 +6,11 @@ The format is a vertical Short of about 30–60 seconds. It opens with **"In Thi
 
 ---
 
-## Shortcut: let AI make the videos
+## Your chosen setup: OpenArt visuals + Claude Code
+
+Scripts, shot prompts, voice, captions, assembly and tracking live in [`production/`](production/README.md). You make the clips in OpenArt, and Claude Code handles the rest. The first 5 episodes are ready.
+
+## Other option: let AI make the whole video
 
 Phase 2 below is the hand-made way. These tools do most of it for you:
 
